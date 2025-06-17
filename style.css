@@ -1062,8 +1062,8 @@ footer p a{
     }
 
     #reviews .image-wrapper {
-        width: 76vw; /* Adjust image width to be larger on mobile */
-        height: 25vh;
+        width: 100%; /* Adjust image width to be larger on mobile */
+        height: 100%;
     }
     
     /* Contact Section adjustments */
