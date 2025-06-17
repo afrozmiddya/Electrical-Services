@@ -225,7 +225,7 @@ body {
 #home .slap1 .image {
     width: clamp(200px, 30vw, 400px);
     height: clamp(200px, 40vh, 500px);
-    background-image: url("/ecommerce/3rd/imag/E2.png");
+    background-image: url("https://assets.onecompiler.app/43mud54jn/43mud3x7q/E2.png");
     background-size: cover;
     background-position: center;
     border-radius: 50%;
